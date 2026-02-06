@@ -1,0 +1,6 @@
+These python libraries are required :-
+
+1. Streamlit
+2. Pandas
+3. Pickle
+4. Scikit-learn
